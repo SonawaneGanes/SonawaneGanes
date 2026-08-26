@@ -1,7 +1,7 @@
  ![logo](https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Link.jpg)
 
-<h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1>
-<h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3> 
+<h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1> 
+<h3 align="center">Software Developer | Python & Backend Developer | AI/ML & Generative AI Enthusiast</h3>
 
 
 
